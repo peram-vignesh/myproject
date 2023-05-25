@@ -1,0 +1,74 @@
+.genre{
+    font-weight: bolder;
+    font-style: italic;
+    color: brown;
+    font-size: 25px;
+    line-height: 2cm;
+}
+.genre1{
+    font-weight: bolder;
+    font-style: italic;
+    color: red;
+    font-size: 20px;
+}
+.genre3{
+    font-weight: bolder;
+    font-style: italic;
+    color: darkgray;
+    font-size: 20px;
+}
+.genre4{
+    font-weight: bolder;
+    font-style: italic;
+    color: gold;
+    font-size: 20px;
+}
+.genre5{
+    font-weight: bolder;
+    font-style: italic;
+    color: blue;
+    font-size: 20px;
+}
+.genre6{
+    font-weight: bolder;
+    font-style: italic;
+    color: green;
+    font-size: 20px;
+}
+.harry{
+    width: 500px;
+    float: left ;
+    margin-right: 2cm ;
+
+}
+.Hogwarts{
+    width: 300px;
+    float: left;
+    margin-top: 5cm ;
+    margin-right: 10 cm;
+}
+.harrypotter{
+    font-size: 20px;
+
+}
+.ger{
+    width: 300px;
+}
+.Twilight{
+    width: 300px;
+}
+.Song{
+    width: 300px;
+}
+.Heroes{
+    width: 300px;
+}
+.IND{
+    width: 300px;
+}
+.DAN{
+    width: 300px;
+}
+.Percy{
+    width: 300px;
+}

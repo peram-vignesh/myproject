@@ -2,8 +2,8 @@
     font-weight: bolder;
     font-style: italic;
     color: brown;
-    font-size: 25px;
-    line-height: 2cm;
+    font-size: 35px;
+    position: relative;
 }
 .genre1{
     font-weight: bolder;
@@ -36,9 +36,9 @@
     font-size: 20px;
 }
 .harry{
-    width: 500px;
-    float: left ;
-    margin-right: 2cm ;
+    width: 600px;
+    float: left;
+    border: 1cm;
 
 }
 .Hogwarts{
@@ -47,28 +47,58 @@
     margin-top: 5cm ;
     margin-right: 10 cm;
 }
-.harrypotter{
-    font-size: 20px;
+.sample{
+    font-size: 30px;
+    position: right;
+    line-height: 7px;
+    line-break: strict;
+    
 
 }
 .ger{
     width: 300px;
+    float: left;
+    margin-top: 5cm ;
+    margin-right: 10 cm;
 }
 .Twilight{
     width: 300px;
+    float: left;
+    margin-top: 5cm ;
+    margin-right: 10 cm;
 }
 .Song{
     width: 300px;
+    float: left;
+    margin-top: 5cm ;
+    margin-right: 10 cm;
 }
 .Heroes{
     width: 300px;
+    float: left;
+    margin-top: 5cm ;
+    margin-right: 10 cm;
 }
 .IND{
     width: 300px;
+    float: left;
+    margin-top: 5cm ;
+    margin-right: 10 cm;
 }
 .DAN{
     width: 300px;
+    float: left;
+    margin-top: 5cm ;
+    margin-right: 10 cm;
 }
 .Percy{
     width: 300px;
+    float: left;
+    margin-top: 5cm ;
+    margin-right: 10 cm;
+}
+.harrppotter{
+    text-align: left;
+    background-color: aqua;
+    margin-bottom: 7cm;
 }

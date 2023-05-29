@@ -1,104 +1,157 @@
-.genre{
+.genre{ /* harry potter heading*/
     font-weight: bolder;
     font-style: italic;
     color: brown;
     font-size: 35px;
-    position: relative;
 }
-.genre1{
+.genre1{/*hogwarts hedaing*/
     font-weight: bolder;
     font-style: italic;
     color: red;
     font-size: 20px;
 }
-.genre3{
+.genre3{/*game of thrones*/
     font-weight: bolder;
     font-style: italic;
     color: darkgray;
     font-size: 20px;
 }
-.genre4{
+.genre4{/*percy jackson*/
     font-weight: bolder;
     font-style: italic;
     color: gold;
     font-size: 20px;
 }
-.genre5{
+.genre5{/*heroes of olympus*/
     font-weight: bolder;
     font-style: italic;
     color: blue;
     font-size: 20px;
 }
-.genre6{
+.genre6{/*geronimo stilton*/
     font-weight: bolder;
     font-style: italic;
     color: green;
     font-size: 20px;
 }
-.harry{
+.harry{/*harry potter picture*/
     width: 600px;
-    float: left;
     border: 1cm;
-
-}
-.Hogwarts{
-    width: 300px;
-    float: left;
-    margin-top: 5cm ;
-    margin-right: 10 cm;
-}
-.sample{
-    font-size: 30px;
-    position: right;
-    line-height: 7px;
-    line-break: strict;
-    
-
-}
-.ger{
-    width: 300px;
-    float: left;
-    margin-top: 5cm ;
-    margin-right: 10 cm;
-}
-.Twilight{
-    width: 300px;
-    float: left;
-    margin-top: 5cm ;
-    margin-right: 10 cm;
-}
-.Song{
-    width: 300px;
-    float: left;
-    margin-top: 5cm ;
-    margin-right: 10 cm;
-}
-.Heroes{
-    width: 300px;
-    float: left;
-    margin-top: 5cm ;
-    margin-right: 10 cm;
-}
-.IND{
-    width: 300px;
-    float: left;
-    margin-top: 5cm ;
-    margin-right: 10 cm;
-}
-.DAN{
-    width: 300px;
-    float: left;
-    margin-top: 5cm ;
-    margin-right: 10 cm;
-}
-.Percy{
-    width: 300px;
-    float: left;
-    margin-top: 5cm ;
-    margin-right: 10 cm;
-}
-.harrppotter{
     text-align: left;
-    background-color: aqua;
+    float:left;
+
+}
+.Hogwarts{/*hogwarts picture*/
+    width: 300px;
+    border: 1cm;
+    float:left;
+    align-items:end;
+}
+.ger{/*geronimo stilton pic*/
+    width: 300px;
+    border: 1cm;
+    text-align: left;
+}
+.Twilight{/*twilight pic*/
+    width: 300px;
+    border: 1cm;
+    text-align: left;
+  
+}
+.Song{/*game of thrones pic*/
+    width: 500px;
+    border: 1cm;
+    text-align: left;
+} 
+.Heroes{/*heroes of olympus pic*/
+    width: 300px;
+    border: 1cm;
+    text-align: left;
+}
+.IND{/*indian mythology pic*/
+    width: 300px;
+    border: 1cm;
+}
+.DAN{/*dan brown novel pic*/
+    width: 300px;
+    border: 1cm;
+    text-align: left;
+
+}
+.Percy{/*percy jackson pic*/
+    width: 300px;
+    border: 1cm;
+    text-align: left;
+}
+.harrypotter{
+    text-align: center;
     margin-bottom: 7cm;
+    align-items: start;
+    border-color: black;
+    border-radius: 5px;
+}
+.Library{
+    text-align: center;
+    align-items: start;
+    border-color: blue;
+    border-radius: 5px;
+    float: left;
+}
+.twil{
+    text-align: left;
+    margin-bottom: 7cm;
+    align-items:start;
+    border-color: black;
+    border-radius: 5px;
+    float: left;
+}
+.Ice{
+    text-align: left;
+    margin-bottom: 7cm;
+    align-items:start;
+    border-color: black;
+    border-radius: 5px;
+    float: left;
+}
+.Jackson{
+    text-align: left;
+    margin-bottom: 7cm;
+    align-items:start;
+    border-color: black;
+    border-radius: 5px;
+}
+.Olympus{
+    text-align: left;
+    margin-bottom: 7cm;
+    align-items:start;
+    border-color: black;
+    border-radius: 5px;
+}
+.brown{
+    text-align: left;
+    margin-bottom: 7cm;
+    align-items:start;
+    border-color: black;
+    border-radius: 5px;
+}
+.stil{
+    text-align: left;
+    margin-bottom: 7cm;
+    align-items:start;
+    border-color: black;
+    border-radius: 5px;
+}
+.Olympus{
+    text-align: left;
+    margin-bottom: 7cm;
+    align-items:start;
+    border-color: black;
+    border-radius: 5px;
+}
+.myth{
+    text-align: left;
+    margin-bottom: 7cm;
+    align-items:start;
+    border-color: black;
+    border-radius: 5px;
 }

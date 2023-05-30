@@ -34,145 +34,77 @@
     color: green;
     font-size: 20px;
 }
-.harry{/*harry potter picture*/
-    width: 400px;
-    border: 1cm;
+.harry {/* harry potter pic*/
+    width: 500px;
     float:left;
+}
+.harrypotter{/* harry potter division*/
+    text-align: center;
+    vertical-align: middle;
+    width: 100%;
+    padding: 110px;
+    box-sizing: border-box;
+    border-color: black;
+    border-width: 3px;
+    background-origin: padding-box;
+    border-style: dotted;
+    margin-bottom: 2cm;
+}
+.Library{/* hogwarts division*/
+
 }
 .Hogwarts{/*hogwarts picture*/
-    width: 300px;
-    border: 1cm;
-    float:left;
-    align-items:end;
-    float: left;
-    margin-bottom: 2cm;
-}
-.Ger{/*geronimo stilton pic*/
-    width: 300px;
-    border: 1cm;
-    text-align: left;
-    float: left;
-    margin-left: 2cm;
-    margin-right: 2cm;
-    margin-bottom: 3cm;
-}
-.Twilight{/*twilight pic*/
-    width: 300px;
-    border: 1cm;
-    text-align: left;
-    float: left;
-    margin-left: 2cm;
-    margin-right: 2cm;
-    margin-bottom: 3cm;
-}
-.Song{/*game of thrones pic*/
-    width: 600px;
-    border: 1cm;
-    text-align: left;
-    float:left;
-    margin-right: 4cm;
-} 
-.Heroes{/*heroes of olympus pic*/
-    width: 300px;
-    border: 1cm;
-    text-align: left;
-    margin-left: 2cm;
-    margin-right: 2cm;
-}
-.IND{/*indian mythology pic*/
-    width: 550px;
-    border: 1cm;
-    margin-bottom: 4cm;
-}
-.DAN{/*dan brown novel pic*/
-    width: 400px;
-    border: 1cm;
-    text-align: left;
-
-}
-.Percy{/*percy jackson pic*/
-    width: 450px;
-    border: 1cm;
-    float:left;
-    align-items:end;
-    float: left;
-    margin-bottom: 2cm;
-}
-.harrypotter{
-    text-align: center;
-    margin-bottom: 7cm;
-    align-items: start;
-    border-width:2px;
-    border-style:solid;
-    border-color:black;
-}
-
-.Library{
-    text-align: center;
-    align-items: start;
-    border-color: black;
-    border-width: 4px;
-    float:left;
-    margin-block-end: auto;
+    right: 2px;
 }
 .twil{
-    text-align: center;
-    align-items:start;
-    border-color: black;
-    border-radius: 5px;
-    float: left;
+    /*twilight division*/
 }
-.Ice{
-    text-align: left;
-    margin-bottom: 7cm;
-    align-items:start;
-    border-color: black;
-    border-radius: 5px;
-}
-.Jackson{
-    text-align: left;
-    margin-bottom: 10cm;
-    border-color: black;
-    border-radius: 5px;
-    float: left;
-}
-.Olympus{
-    text-align: left;
-    margin-bottom: 7cm;
-    align-items:start;
-    border-color: black;
-    border-radius: 5px;
-    float: left;
-}
-.Brown{
-    text-align: center;
-    border-color: black;
-    float: right;
-}
-.stil{ 
-    text-align: left;
-    margin-bottom: 7cm;
-    align-items:start;
-    border-color: black;
-    border-radius: 5px;
-}
-.Olympus{
-    text-align: left;
-    margin-bottom: 7cm;
-    align-items:start;
-    border-color: black;
-    border-radius: 5px;
-    float: left;
+.Twilight{
+    /* twilight image*/
 }
 .myth{
-    text-align: left;
-    margin-bottom: 7cm;
-    align-items:start;
-    border-color: black;
-    border-radius: 5px;
-    float: left;
+    /*Mythology division*/
 }
-.Fire{
-    font-size: 20px;
-    line-height: 1cm;
+.IND{
+    /* Mythology picture*/
+}
+.Ice{
+    /* GOT division*/
+}
+.Song{
+    /*Got Picture*/
+}
+.Jackson{
+    /*Percy Jackson Division*/
+}
+.Percy{
+    /*Percy Jackson image*/
+}
+.Olympus{
+    /* Heroes division*/
+}
+.Heroes{
+    /* Heroes Image*/
+}
+.brown{
+    /* Dan brown division*/
+}
+.Dan{
+    /* Dan Brown Image*/
+}
+.stil{
+    /*geronimo division*/
+}
+.ger{
+    /* geronimo image*/
+}
+.head{
+    /* HEading*/
+    border-color: black;
+    background-color: aquamarine;
+    border-style: double;
+    border-width: 5px;
+    font-weight: bolder;
+    font-size: 35px;
+    text-align: center;
 }

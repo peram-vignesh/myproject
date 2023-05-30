@@ -35,11 +35,9 @@
     font-size: 20px;
 }
 .harry{/*harry potter picture*/
-    width: 600px;
+    width: 400px;
     border: 1cm;
-    text-align: left;
     float:left;
-
 }
 .Hogwarts{/*hogwarts picture*/
     width: 300px;
@@ -50,10 +48,13 @@
     margin-bottom: 2cm;
 }
 .Ger{/*geronimo stilton pic*/
-    width: 350px;
+    width: 300px;
+    border: 1cm;
     text-align: left;
-    float: center;
-    align-items: start;
+    float: left;
+    margin-left: 2cm;
+    margin-right: 2cm;
+    margin-bottom: 3cm;
 }
 .Twilight{/*twilight pic*/
     width: 300px;
@@ -87,7 +88,6 @@
     width: 400px;
     border: 1cm;
     text-align: left;
-    margin-bottom: 2cm;
 
 }
 .Percy{/*percy jackson pic*/
@@ -102,8 +102,11 @@
     text-align: center;
     margin-bottom: 7cm;
     align-items: start;
-    border-color: black;
+    border-width:2px;
+    border-style:solid;
+    border-color:black;
 }
+
 .Library{
     text-align: center;
     align-items: start;
@@ -128,8 +131,7 @@
 }
 .Jackson{
     text-align: left;
-    margin-bottom: 7cm;
-    align-items:start;
+    margin-bottom: 10cm;
     border-color: black;
     border-radius: 5px;
     float: left;
@@ -144,15 +146,15 @@
 }
 .Brown{
     text-align: center;
+    border-color: black;
+    float: right;
+}
+.stil{ 
+    text-align: left;
+    margin-bottom: 7cm;
     align-items:start;
     border-color: black;
     border-radius: 5px;
-    margin-bottom: 4cm;
-    float: inline-start;
-}
-.stil{
-    text-align: center;
-    align-items:start;
 }
 .Olympus{
     text-align: left;

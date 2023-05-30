@@ -46,60 +46,74 @@
     border: 1cm;
     float:left;
     align-items:end;
+    float: left;
+    margin-bottom: 2cm;
 }
-.ger{/*geronimo stilton pic*/
-    width: 300px;
-    border: 1cm;
+.Ger{/*geronimo stilton pic*/
+    width: 350px;
     text-align: left;
+    float: center;
+    align-items: start;
 }
 .Twilight{/*twilight pic*/
     width: 300px;
     border: 1cm;
     text-align: left;
-  
+    float: left;
+    margin-left: 2cm;
+    margin-right: 2cm;
+    margin-bottom: 3cm;
 }
 .Song{/*game of thrones pic*/
-    width: 500px;
+    width: 600px;
     border: 1cm;
     text-align: left;
+    float:left;
+    margin-right: 4cm;
 } 
 .Heroes{/*heroes of olympus pic*/
     width: 300px;
     border: 1cm;
     text-align: left;
+    margin-left: 2cm;
+    margin-right: 2cm;
 }
 .IND{/*indian mythology pic*/
-    width: 300px;
+    width: 550px;
     border: 1cm;
+    margin-bottom: 4cm;
 }
 .DAN{/*dan brown novel pic*/
-    width: 300px;
+    width: 400px;
     border: 1cm;
     text-align: left;
+    margin-bottom: 2cm;
 
 }
 .Percy{/*percy jackson pic*/
-    width: 300px;
+    width: 450px;
     border: 1cm;
-    text-align: left;
+    float:left;
+    align-items:end;
+    float: left;
+    margin-bottom: 2cm;
 }
 .harrypotter{
     text-align: center;
     margin-bottom: 7cm;
     align-items: start;
     border-color: black;
-    border-radius: 5px;
 }
 .Library{
     text-align: center;
     align-items: start;
-    border-color: blue;
-    border-radius: 5px;
-    float: left;
+    border-color: black;
+    border-width: 4px;
+    float:left;
+    margin-block-end: auto;
 }
 .twil{
-    text-align: left;
-    margin-bottom: 7cm;
+    text-align: center;
     align-items:start;
     border-color: black;
     border-radius: 5px;
@@ -111,7 +125,6 @@
     align-items:start;
     border-color: black;
     border-radius: 5px;
-    float: left;
 }
 .Jackson{
     text-align: left;
@@ -119,6 +132,7 @@
     align-items:start;
     border-color: black;
     border-radius: 5px;
+    float: left;
 }
 .Olympus{
     text-align: left;
@@ -126,20 +140,19 @@
     align-items:start;
     border-color: black;
     border-radius: 5px;
+    float: left;
 }
-.brown{
-    text-align: left;
-    margin-bottom: 7cm;
+.Brown{
+    text-align: center;
     align-items:start;
     border-color: black;
     border-radius: 5px;
+    margin-bottom: 4cm;
+    float: inline-start;
 }
 .stil{
-    text-align: left;
-    margin-bottom: 7cm;
+    text-align: center;
     align-items:start;
-    border-color: black;
-    border-radius: 5px;
 }
 .Olympus{
     text-align: left;
@@ -147,6 +160,7 @@
     align-items:start;
     border-color: black;
     border-radius: 5px;
+    float: left;
 }
 .myth{
     text-align: left;
@@ -154,4 +168,9 @@
     align-items:start;
     border-color: black;
     border-radius: 5px;
+    float: left;
+}
+.Fire{
+    font-size: 20px;
+    line-height: 1cm;
 }

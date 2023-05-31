@@ -42,15 +42,16 @@
     text-align: center;
     vertical-align: middle;
     width: 100%;
-    padding: 100px;
+    padding: 80px;
     box-sizing:border-box;
     border-color: black;
     border-width: 3px;
     background-origin: padding-box;
     border-style: dotted;
-    border-spacing: 2cm;
+    border-collapse: separate;
+    border-spacing: 15px 15px;
     }
-.Library{/* hogwarts division*/
+.Library{/* hogwarts division*/ 
     text-align: center;
     vertical-align: middle;
     width: 100%;
@@ -62,11 +63,13 @@
     border-bottom-color: black;
     border-style: dashed;
     overflow: hidden;
+    border-collapse: separate;
+    border-spacing: 15px 15px;
+    border-bottom: 2cm;
 }
 .Hogwarts{/*hogwarts picture*/
     float: left;
-    width: 200px;
-    width:max-content;
+    width: 300px;
 }
 .twil{
     /*twilight division*/
@@ -75,15 +78,17 @@
     width: 100%;
     padding: 100px;
     box-sizing: border-box;
-    box-sizing: border-box;
     border-color: black;
     border-spacing: 2cm;
     border-bottom-color: black;
     border-style: dashed;
+    object-fit:fill;
+    overflow: hidden;
 }
 .Twilight{
     /* twilight image*/
     width: 250px;
+    float: left;
 }
 .myth{
     /*Mythology division*/
@@ -97,11 +102,12 @@
     border-spacing: 2cm;
     border-bottom-color: black;
     border-style: dashed;
+    overflow:scroll;
 }
 .IND{
     /* Mythology picture*/
     float: left;
-    width: 200px;
+    width: 400px;
 }
 .Ice{
     /* GOT division*/
@@ -110,16 +116,16 @@
     width: 100%;
     padding: 100px;
     box-sizing: border-box;
-    box-sizing: border-box;
     border-color: black;
     border-spacing: 2cm;
     border-bottom-color: black;
     border-style: dashed;
+    overflow: hidden;
 }
 .Song{
     /*Got Picture*/
     float: left;
-    width: 200px;
+    width: 400px;
 }
 .Jackson{
     /*Percy Jackson Division*/
@@ -128,16 +134,16 @@
     width: 100%;
     padding: 100px;
     box-sizing: border-box;
-    box-sizing: border-box;
     border-color: black;
     border-spacing: 2cm;
     border-bottom-color: black;
     border-style: dashed;
+    overflow: hidden;
 }
 .Percy{
     /*Percy Jackson image*/
     float: left;
-    width: 200px;
+    width: 400px;
 }
 .Olympus{
     /* Heroes division*/
@@ -146,16 +152,16 @@
     width: 100%;
     padding: 100px;
     box-sizing: border-box;
-    box-sizing: border-box;
     border-color: black;
     border-spacing: 2cm;
     border-bottom-color: black;
     border-style: dashed;
+    overflow: hidden;
 }
 .Heroes{
     /* Heroes Image*/
     float: left;
-    width: 200px;
+    width: 300px;
 }
 .brown{
     /* Dan brown division*/
@@ -169,11 +175,12 @@
     border-spacing: 2cm;
     border-bottom-color: black;
     border-style: dashed;
+    overflow: hidden;
 }
 .Dan{
     /* Dan Brown Image*/
     float: left;
-    width: 200px;
+    width: 400px;
 }
 .stil{
     /*geronimo division*/
@@ -187,11 +194,12 @@
     border-spacing: 2cm;
     border-bottom-color: black;
     border-style: dashed;
+    overflow: hidden;
 }
 .ger{
     /* geronimo image*/
     float: left;
-    width: 200px;
+    width: 250px;
 }
 .head{
     /* HEading*/

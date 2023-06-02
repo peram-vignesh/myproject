@@ -1,0 +1,139 @@
+head{
+    font-size: larger;
+    font-weight: bolder;
+}
+.harry{
+    width:600px;
+}
+
+.h1{
+    width: 300px;
+    float: left;
+    border-left: 3cm;
+}
+.philosopher{
+    padding: 100px;
+    box-sizing: border-box;
+    border-width: 5px;
+    border-color: black;
+    border-style: double;
+    overflow: hidden;
+    vertical-align: middle;
+    text-align: center;
+
+}
+.h2{
+    width:200px ;
+}
+.chamber{
+    padding: 100px;
+    box-sizing: border-box;
+    border-width: 5px;
+    border-color: black;
+    border-style: double;
+    overflow: hidden;
+    vertical-align: middle;
+    text-align: center;
+
+}
+
+.h3{
+    width:200px;
+    float: left;
+}
+.prisoner{
+    padding: 100px;
+    box-sizing: border-box;
+    border-width: 5px;
+    border-color: black;
+    border-style: double;
+    overflow: hidden;
+    vertical-align: middle;
+    text-align: center;
+
+}
+.h4{
+    width:200px;
+    float: left;
+}
+.goblet{
+    padding: 100px;
+    box-sizing: border-box;
+    border-width: 5px;
+    border-color: black;
+    border-style: double;
+    overflow: hidden;
+    vertical-align: middle;
+    text-align: center;
+
+}
+.h5{
+    width:200px;
+    float: left;
+}
+.order{
+    padding: 100px;
+    box-sizing: border-box;
+    border-width: 5px;
+    border-color: black;
+    border-style: double;
+    overflow: hidden;
+    vertical-align: middle;
+    text-align: center;
+
+}
+.h6{
+    width:200px;
+    float: left;
+}
+.halfblood{
+    padding: 100px;
+    box-sizing: border-box;
+    border-width: 5px;
+    border-color: black;
+    border-style: double;
+    overflow: hidden;
+    vertical-align: middle;
+    text-align: center;
+
+}
+.h7{
+    width:200px;
+    float: left;
+}
+.deathly{
+    padding: 100px;
+    box-sizing: border-box;
+    border-width: 5px;
+    border-color: black;
+    border-style: double;
+    overflow: hidden;
+    vertical-align: middle;
+    text-align: center;
+
+}
+.h8{
+    width:200px;
+    float: left;
+}
+.cursed{
+    padding: 100px;
+    box-sizing: border-box;
+    border-width: 5px;
+    border-color: black;
+    border-style: double;
+    overflow: hidden;
+    vertical-align: middle;
+    text-align: center;
+
+}
+.head1{
+    /* HEading*/
+    border-color: black;
+    background-color: aquamarine;
+    border-style: double;
+    border-width: 5px;
+    font-weight: bolder;
+    font-size: 50px;
+    text-align: center;
+}

@@ -1,0 +1,87 @@
+.jaya{
+    box-sizing: border-box;
+    border-color: black;
+    border-width: 3px;
+    border-style: double;
+    overflow: hidden;
+    text-align: center;
+    color: crimson;
+    vertical-align: middle;
+    overflow: hidden;
+}
+.h1{
+    font-weight: bolder;
+    font-size: larger;
+    color: gold;
+}
+.img1{
+    width: 300px;
+    float: left;
+    margin-bottom: 2cm;
+    margin-top: 2cm;
+    margin-left: 2cm;
+}
+.sita{
+    box-sizing: border-box;
+    border-color: black;
+    border-width: 3px;
+    border-style: double;
+    overflow: hidden;
+    text-align: center;
+    color: crimson;
+    vertical-align: middle;
+    overflow: hidden;
+}
+.h2{
+    font-weight: bolder;
+    font-size: larger;
+    color: greenyellow;
+}
+.img2{
+    width: 300px;
+    margin-bottom: 2cm;
+    margin-top: 2cm;
+}
+.shyam{
+    box-sizing: border-box;
+    border-color:black;
+    border-width: 3px;
+    border-style: double;
+    overflow: hidden;
+    text-align: center;
+    color: yellow;
+    vertical-align: middle;
+    overflow: hidden;
+}
+.h3{font-weight: bolder;
+    font-size: larger;
+    color: deeppink;
+}
+.img3{
+    width: 300px;
+    float: left;
+    margin-bottom: 2cm;
+    margin-left: 2cm;
+    margin-top: 2cm;
+}
+.rvsm{
+    box-sizing: border-box;
+    border-color: black;
+    border-width: 3px;
+    border-style: double;
+    overflow: hidden;
+    text-align: center;
+    color: crimson;
+    vertical-align: middle;
+    overflow: hidden;
+}
+.h4{
+    font-weight: bolder;
+    font-size: larger;
+    color:fuchsia;
+}
+.img4{
+    width: 300px;
+    margin-bottom: 2cm;
+    margin-top: 2cm;
+}

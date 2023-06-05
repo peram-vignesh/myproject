@@ -1,0 +1,90 @@
+.h1{
+    font-weight: bolder;
+    font-size: large;
+    text-align: center;
+    color: red;
+}
+.img1{
+    width: 350px;
+    float: left;
+}
+.twilight{
+    box-sizing: border-box;
+    padding:100px;
+    text-align: center;
+    color: aquamarine;
+    border-color: black;
+    border-style: groove;
+    border-width: 3px;
+    overflow: hidden;
+    vertical-align: middle;
+}
+.h2{
+    font-weight: bolder;
+    font-size: large;
+    text-align: center;
+    color: red;
+}
+.img2{
+    width: 400px;
+}
+.eclipse{
+    box-sizing: border-box;
+    padding:100px;
+    text-align: center;
+    color: rgb(255, 174, 127);
+    border-color: black;
+    border-style: groove;
+    border-width: 3px;
+    overflow: hidden;
+}
+.h3{
+    font-weight: bolder;
+    font-size: large;
+    text-align: center;
+    color: red;
+}
+.new{
+    box-sizing: border-box;
+    padding:100px;
+    text-align: center;
+    color: white;
+    border-color: black;
+    border-style: groove;
+    border-width: 3px;
+    overflow: hidden;
+}
+.img3{
+    width: 350px;
+    float: left;
+    vertical-align: middle;
+}
+.dawn{
+    box-sizing: border-box;
+    padding:100px;
+    text-align: center;
+    color: crimson;
+    border-color: black;
+    border-style: groove;
+    border-width: 3px;
+    overflow: hidden;
+}
+.h4{
+    font-weight: bolder;
+    font-size: large;
+    text-align: center;
+    color: red;
+}
+.img4{
+    width: 350px;
+}
+.head1{
+    /* HEading*/
+    border-color: red;
+    background-color: aquamarine;
+    border-style: double;
+    border-width: 5px;
+    font-weight: bolder;
+    font-size: 50px;
+    text-align: center;
+}

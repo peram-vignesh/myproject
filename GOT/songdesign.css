@@ -1,0 +1,166 @@
+.h1{
+    font-weight: bolder;
+    font-size: larger;
+    color: silver;
+}
+.img1{
+    width:300px;
+    float: left;
+}
+.game{
+    padding: 100px;
+    box-sizing: border-box;
+    border-color: black;
+    border-width: 3px;
+    border-style: double;
+    text-align: center;
+    vertical-align: middle;
+    overflow: hidden;
+    color: aqua;
+}
+.h2{
+    font-weight: bolder;
+    font-size: larger;
+    color: olivedrab;
+}
+.img2{
+    width:300px;
+}
+.clash{
+    padding: 100px;
+    box-sizing: border-box;
+    border-color: black;
+    border-width: 3px;
+    border-style: double;
+    text-align: center;
+    vertical-align: middle;
+    overflow: hidden;
+    color: aqua;
+}
+.h3{
+    font-weight: bolder;
+    font-size: larger;
+    color: rgb(0, 4, 255);
+}
+.img3{
+    width:300px;
+    float: left;
+}
+.steel{
+    padding: 100px;
+    box-sizing: border-box;
+    border-color: black;
+    border-width: 3px;
+    border-style: double;
+    text-align: center;
+    vertical-align: middle;
+    overflow: hidden;
+    color: aqua;
+}
+.h4{
+    font-weight: bolder;
+    font-size: larger;
+    color: purple;
+}
+.img4{
+    width:300px;
+}
+.blood{
+    padding: 100px;
+    box-sizing: border-box;
+    border-color: black;
+    border-width: 3px;
+    border-style: double;
+    text-align: center;
+    vertical-align: middle;
+    overflow: hidden;
+    color: aqua;
+}
+.img5{
+    width:300px;
+    float: left;
+}
+.h5{
+    font-weight: bolder;
+    font-size: larger;
+    color: red;
+}
+.crows{
+    padding: 100px;
+    box-sizing: border-box;
+    border-color: black;
+    border-width: 3px;
+    border-style: double;
+    text-align: center;
+    vertical-align: middle;
+    overflow: hidden;
+    color: aqua;
+}
+.h6{
+    font-weight: bolder;
+    font-size: larger;
+    color:burlywood ;
+}
+.img6{
+    width:300px;
+}
+.dreams{
+    padding: 100px;
+    box-sizing: border-box;
+    border-color: black;
+    border-width: 3px;
+    border-style: double;
+    text-align: center;
+    vertical-align: middle;
+    overflow: hidden;
+    color: aqua;
+}
+.h7{
+    font-weight: bolder;
+    font-size: larger;
+    color:gray;
+}
+.img7{
+    width:300px;
+    float: left;
+}
+.feast{
+    padding: 100px;
+    box-sizing: border-box;
+    border-color: black;
+    border-width: 3px;
+    border-style: double;
+    text-align: center;
+    vertical-align: middle;
+    overflow: hidden;
+    color: aqua;
+}
+.h8{
+    font-weight: bolder;
+    font-size: larger;
+    color:black;
+}
+.img8{
+    width:300px;
+}
+.fire{
+    padding: 100px;
+    box-sizing: border-box;
+    border-color: black;
+    border-width: 3px;
+    border-style: double;
+    text-align: center;
+    vertical-align: middle;
+    color: aqua;
+    overflow: hidden;
+}
+.head1{
+    /* HEading*/
+    border-color: black;
+    background-color: aquamarine;
+    border-style: double;
+    border-width: 5px;
+    font-weight: bolder;
+    font-size: 50px;
+    text-align: center;
+}

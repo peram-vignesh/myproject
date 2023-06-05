@@ -1,0 +1,106 @@
+.head1{
+    /* HEading*/
+    border-color: black;
+    background-color: aquamarine;
+    border-style: double;
+    border-width: 5px;
+    font-weight: bolder;
+    font-size: 50px;
+    text-align: center;
+}
+.h1{
+    font-size: larger;
+    font-weight: bolder;
+    color: blue;
+}
+.img1{
+    width: 200px;
+    float: left;
+}
+.thief{
+    box-sizing: border-box;
+    padding: 100px;
+    border-color: black;
+    border-width: 3px;
+    border-style: groove;
+    text-align: center;
+    vertical-align: middle;
+    overflow: hidden;
+    color: whitesmoke;
+}
+.h2{
+    font-size: larger;
+    font-weight: bolder;
+    color: green;
+}
+.img2{
+    width: 200px;
+}
+.monster{
+    box-sizing: border-box;
+    padding: 100px;
+    border-color: black;
+    border-width: 3px;
+    border-style: groove;
+    text-align: center;
+    vertical-align: middle;
+    overflow: hidden;
+    color: whitesmoke;
+}
+.h3{
+    font-size: larger;
+    font-weight: bolder;
+    color: violet;
+}
+.img3{
+    width: 200px;
+    float: left;
+}
+.titan{
+    box-sizing: border-box;
+    padding: 100px;
+    border-color: black;
+    border-width: 3px;
+    border-style: groove;
+    text-align: center;
+    vertical-align: middle;
+    overflow: hidden;
+    color: whitesmoke;
+}
+.h4{font-size: larger;
+    font-weight: bolder;
+    color: red;}
+.img4{
+    width: 200px;
+}
+.battle{
+    box-sizing: border-box;
+    padding: 100px;
+    border-color: black;
+    border-width: 3px;
+    border-style: groove;
+    text-align: center;
+    vertical-align: middle;
+    overflow: hidden;
+    color: whitesmoke;
+}
+.h5{
+    font-size: larger;
+    font-weight: bolder;
+    color: gold;
+}
+.img5{
+    width: 200px;
+    float: left;
+}
+.olympian{
+    box-sizing: border-box;
+    padding: 100px;
+    border-color: black;
+    border-width: 3px;
+    border-style: groove;
+    text-align: center;
+    vertical-align: middle;
+    overflow: hidden;
+    color: whitesmoke;
+}

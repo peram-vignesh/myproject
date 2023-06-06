@@ -48,8 +48,9 @@
     border-width: 3px;
     background-origin: padding-box;
     border-style: dotted;
-    border-collapse: separate;
-    border-spacing: 15px 15px;
+    margin-bottom: 2cm;
+    margin-left: 1cm;
+    margin-right: 1cm;
     }
 .Library{/* hogwarts division*/ 
     text-align: center;
@@ -63,9 +64,9 @@
     border-bottom-color: black;
     border-style: dashed;
     overflow: hidden;
-    border-collapse: separate;
-    border-spacing: 15px 15px;
-    border-bottom: 2cm;
+    margin-bottom: 2cm;
+    margin-left: 1cm;
+    margin-right: 1cm;
 }
 .Hogwarts{/*hogwarts picture*/
     float: left;
@@ -84,6 +85,9 @@
     border-style: dashed;
     object-fit:fill;
     overflow: hidden;
+    margin-bottom: 2cm;
+    margin-left: 1cm;
+    margin-right: 1cm;
 }
 .Twilight{
     /* twilight image*/
@@ -103,6 +107,9 @@
     border-bottom-color: black;
     border-style: dashed;
     overflow:scroll;
+    margin-bottom: 2cm;
+    margin-left: 1cm;
+    margin-right: 1cm;
 }
 .IND{
     /* Mythology picture*/
@@ -121,6 +128,9 @@
     border-bottom-color: black;
     border-style: dashed;
     overflow: hidden;
+    margin-bottom: 2cm;
+    margin-left: 1cm;
+    margin-right: 1cm;
 }
 .Song{
     /*Got Picture*/
@@ -139,6 +149,9 @@
     border-bottom-color: black;
     border-style: dashed;
     overflow: hidden;
+    margin-bottom: 2cm;
+    margin-left: 1cm;
+    margin-right: 1cm;
 }
 .Percy{
     /*Percy Jackson image*/
@@ -157,6 +170,9 @@
     border-bottom-color: black;
     border-style: dashed;
     overflow: hidden;
+    margin-bottom: 2cm;
+    margin-left: 1cm;
+    margin-right: 1cm;
 }
 .Heroes{
     /* Heroes Image*/
@@ -176,6 +192,9 @@
     border-bottom-color: black;
     border-style: dashed;
     overflow: hidden;
+    margin-bottom: 2cm;
+    margin-left: 1cm;
+    margin-right: 1cm;
 }
 .Dan{
     /* Dan Brown Image*/
@@ -195,6 +214,9 @@
     border-bottom-color: black;
     border-style: dashed;
     overflow: hidden;
+    margin-bottom: 2cm;
+    margin-left: 1cm;
+    margin-right: 1cm;
 }
 .ger{
     /* geronimo image*/

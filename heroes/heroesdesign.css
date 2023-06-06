@@ -1,0 +1,80 @@
+.h1{
+    font-weight: bolder;
+    font-size: larger;
+    color: goldenrod;
+}
+.img1{
+    float: left;
+    width: 250px;
+}
+.lost{
+    box-sizing: border-box;
+    border-color: black;
+    border-width: 3px;
+    border-style: double;
+    color: blue;
+    padding: 100px;
+    overflow: hidden;
+    text-align: center;
+    vertical-align: middle;
+    margin-bottom: 2cm;
+    margin-left: 1cm;
+    margin-right: 1cm;
+}
+.h2{
+    font-weight: bolder;
+    font-size: larger;
+    color: rgb(0, 132, 255);
+}
+.img2{
+    width: 250px;
+}
+.mark{
+    box-sizing: border-box;
+    border-color: black;
+    border-width: 3px;
+    border-style: double;
+    color: rgb(234, 255, 0);
+    padding: 100px;
+    overflow: hidden;
+    text-align: center;
+    vertical-align: middle;
+    margin-bottom: 2cm;
+    margin-left: 1cm;
+    margin-right: 1cm;
+}
+.h3{
+    font-weight: bolder;
+    font-size: larger;
+    color: green;
+}
+.img3{
+    float: left;
+    width: 250px;
+}
+.neptune{
+    box-sizing: border-box;
+    border-color: black;
+    border-width: 3px;
+    border-style: double;
+    color: greenyellow;
+    padding: 100px;
+    overflow: hidden;
+    text-align: center;
+    vertical-align: middle;
+    margin-bottom: 2cm;
+    margin-left: 1cm;
+    margin-right: 1cm;
+}
+.head1{
+    /* HEading*/
+    border-color: black;
+    padding: 20px;
+    border-style: double;
+    border-width: 5px;
+    font-weight: bolder;
+    font-size: 50px;
+    text-align: center;
+    box-sizing: border-box;
+    background-color: goldenrod;
+}

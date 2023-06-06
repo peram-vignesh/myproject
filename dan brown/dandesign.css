@@ -1,0 +1,168 @@
+.h1{
+    font-size: larger;
+    font-weight: bolder;
+    color: aliceblue;
+}
+.img1{
+    width: 250px;
+    float: left;
+}
+.angel{
+    box-sizing: border-box;
+    padding: 100px;
+    border-color: black;
+    border-width: 3px;
+    border-style: groove;
+    text-align: center;
+    vertical-align: middle;
+    overflow: hidden;
+    color:black;
+    margin-bottom: 2cm;
+    margin-left: 1cm;
+    margin-right: 1cm;
+}
+.h2{
+    font-size: larger;
+    font-weight: bolder;
+    color: aliceblue;
+}
+.img2{
+    width: 250px;
+}
+.davinci{
+    box-sizing: border-box;
+    padding: 100px;
+    border-color: black;
+    border-width: 3px;
+    border-style: groove;
+    text-align: center;
+    vertical-align: middle;
+    overflow: hidden;
+    color: red;
+    margin-bottom: 2cm;
+    margin-left: 1cm;
+    margin-right: 1cm;
+}
+.h3{
+    font-size: larger;
+    font-weight: bolder;
+    color: blue;
+}
+.img3{
+    width: 250px;
+    float: left;
+}
+.deception{
+    box-sizing: border-box;
+    padding: 100px;
+    border-color: black;
+    border-width: 3px;
+    border-style: groove;
+    text-align: center;
+    vertical-align: middle;
+    overflow: hidden;
+    color: greenyellow;
+    margin-bottom: 2cm;
+    margin-left: 1cm;
+    margin-right: 1cm;
+}
+.h4{
+    font-size: larger;
+    font-weight: bolder;
+    color: silver;
+}
+.img4{
+    width: 250px;
+}
+.digital{
+    box-sizing: border-box;
+    padding: 100px;
+    border-color: black;
+    border-width: 3px;
+    border-style: groove;
+    text-align: center;
+    vertical-align: middle;
+    overflow: hidden;
+    color: blue;
+    margin-bottom: 2cm;
+    margin-left: 1cm;
+    margin-right: 1cm;
+}
+.h5{
+    font-size: larger;
+    font-weight: bolder;
+    color: burlywood;
+}
+.img5{
+    width: 250px;
+    float: left;
+}
+.symbol{
+    box-sizing: border-box;
+    padding: 100px;
+    border-color: black;
+    border-width: 3px;
+    border-style: groove;
+    text-align: center;
+    vertical-align: middle;
+    overflow: hidden;
+    color: gold;
+    margin-bottom: 2cm;
+    margin-left: 1cm;
+    margin-right: 1cm;
+}
+.h6{
+    font-size: larger;
+    font-weight: bolder;
+    color: red;
+}
+.img6{
+    width: 250px;
+}
+.inferno{
+    box-sizing: border-box;
+    padding: 100px;
+    border-color: black;
+    border-width: 3px;
+    border-style: groove;
+    text-align: center;
+    vertical-align: middle;
+    overflow: hidden;
+    color: green;
+    margin-bottom: 2cm;
+    margin-left: 1cm;
+    margin-right: 1cm;
+}
+.h7{
+    font-size: larger;
+    font-weight: bolder;
+    color: aliceblue;
+}
+.img7{
+    width: 250px;
+    float: left;
+}
+.origin{
+    box-sizing: border-box;
+    padding: 100px;
+    border-color: black;
+    border-width: 3px;
+    border-style: groove;
+    text-align: center;
+    vertical-align: middle;
+    overflow: hidden;
+    color: red;
+    margin-bottom: 2cm;
+    margin-left: 1cm;
+    margin-right: 1cm;
+}
+.head1{
+    /* HEading*/
+    border-color: black;
+    background-color: aquamarine;
+    border-style: double;
+    border-width: 5px;
+    font-weight: bolder;
+    font-size: 50px;
+    text-align: center;
+}

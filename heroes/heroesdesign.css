@@ -78,3 +78,15 @@
     box-sizing: border-box;
     background-color: goldenrod;
 }
+.previous{
+    font-weight: bolder;
+    font-family: cursive;
+    color: black;
+    text-align: left;
+}
+.next{
+    font-weight: bolder;
+    font-family: cursive;
+    color: black;
+    text-align: right;
+}
